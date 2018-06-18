@@ -1,1 +1,1 @@
-# Data_Agnostic_Classifier
+# DataAgnosticClassifier
