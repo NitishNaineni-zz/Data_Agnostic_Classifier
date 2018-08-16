@@ -65,7 +65,7 @@ You must be able to see the following screen:
 
 ### Sample Run
 
-Let us consider a sample dataset and use it in our application. The data set consists of Consumer Finance Complaints with 4 predefined categories namely - â€˜Credit reportingâ€™,  â€˜Debt collectionâ€™, â€˜Mortgageâ€™, â€˜Student loanâ€™.
+Let us consider a sample dataset and use it in our application. The data set consists of Consumer Finance Complaints with 4 predefined categories namely - ‘Credit reporting’,  ‘Debt collection’, ‘Mortgage’, ‘Student loan’.
 (Source: [data.gov](https://catalog.data.gov/dataset/consumer-complaint-database))
 
 The input data to our application should contain a feature name and label fields.
